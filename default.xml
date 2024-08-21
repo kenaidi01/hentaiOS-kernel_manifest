@@ -11,7 +11,7 @@
     <default sync-j="4" />
 
     <project path="build" name="kernel/build" revision="8c0966a12f3ab946e6e91ce20e581953d36434c1" groups="partner" remote="aosp" />
-    <project path="private/msm-google" name="LittleChest/hentaiOS-kernel_xiaomi_gourami" revision="Ursamoon" remote="github">
+    <project path="private/msm-google" name="kenaidi01/hentaiOS-kernel_xiaomi_gourami" revision="Ursamoon" remote="github">
         <linkfile src="build_lmi.sh" dest="build_lmi.sh" />
         <linkfile src="build_umi.sh" dest="build_umi.sh" />
         <linkfile src="build_cmi.sh" dest="build_cmi.sh" />
